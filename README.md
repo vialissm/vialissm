@@ -23,6 +23,4 @@ I'm also a big Twenty One Pilots fan. My username, `vialissm`, is inspired by th
 
 ---
 
-## Stats
-
 ![Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
